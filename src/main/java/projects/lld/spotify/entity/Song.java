@@ -1,2 +1,4 @@
-package projects.lld.spotify.manager.entity;public class Song {
+package projects.lld.spotify.entity;
+
+public class Song {
 }
